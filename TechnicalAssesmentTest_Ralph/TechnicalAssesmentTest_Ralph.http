@@ -1,0 +1,6 @@
+@TechnicalAssesmentTest_Ralph_HostAddress = http://localhost:5125
+
+GET {{TechnicalAssesmentTest_Ralph_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
